@@ -7,6 +7,6 @@ int main(){
     float sum = (a+b+c);
     float avg = sum/3;
     
-    printf("%.2f",avg);
+    printf("Averge: %.2f",avg);
     return 0;
 }
