@@ -4,7 +4,8 @@ int main(){
     scanf("%d",&a);
     scanf("%d",&b);
     scanf("%d",&c);
-    float avg = float(a+b+c) / 3
+    float sum = float(a+b+c);
+    float avg = sum/3;
     
     printf("%f",avg);
     return 0;
