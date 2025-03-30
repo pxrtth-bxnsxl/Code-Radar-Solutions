@@ -1,6 +1,4 @@
 #include<stdio.h>
-void bubbleSort(int arr[],int n);
-void printSort(int arr[],int n);
 int main(){
     int n;
     scanf("%d",&n);
